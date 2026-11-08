@@ -24,7 +24,7 @@ title   : to plot a dragon, OK?
 description: > # this means to ignore newlines until "Language & timezone"
   small effort, big dream, huge future
   
-
+theme: jekyll-text-theme
 
 ## => Language and Timezone
 ##############################
